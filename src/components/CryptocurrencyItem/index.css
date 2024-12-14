@@ -1,0 +1,42 @@
+.list-item{
+    list-style-type: none;
+    display:flex;
+    justify-content:space-between;
+    margin:20px;
+
+}
+.logo-container{
+    display:flex;
+    align-items:center;
+    
+}
+.name{
+    color: #ffffff;
+    font-family:"Roboto";
+    font-size:16px;
+
+}
+.usd-val{
+    color: #ffffff;
+    font-family:"Roboto";
+    font-size:16px;
+    padding-right:20px;
+    
+}
+.euro-val{
+    color: #ffffff;
+    font-family:"Roboto";
+    font-size:16px;
+    padding-right:20px;
+   
+
+}
+.currency-container{
+    display:flex;
+}
+.logo{
+    width:30px;
+    height:30px;
+    padding-right:10px;
+    
+}
